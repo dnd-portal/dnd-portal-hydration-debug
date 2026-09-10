@@ -1,0 +1,1 @@
+import{$ as e,et as t}from"../chunks/cUcjPqaC.js";import"../chunks/xihTtKlq.js";import{l as n}from"../chunks/DqpJG83q.js";import{t as r}from"../chunks/BtxRDNNs.js";function i(i,a){t(a,!0);let o=n(`internals.classes.rogue`);r(i,{get content(){return o.content}}),e()}export{i as component};
