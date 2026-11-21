@@ -60,7 +60,7 @@
 		content={seo.description}
 	/>
 	<link rel="canonical" href={seo.canonicalUrl} />
-	<meta name="robots" content="index, follow" />
+	<meta name="robots" content="noindex, nofollow" />
 	<meta name="theme-color" content="#0b0d0c" />
 	<meta property="og:site_name" content="D&D Portal Wiki" />
 	<meta property="og:type" content={seo.type} />
